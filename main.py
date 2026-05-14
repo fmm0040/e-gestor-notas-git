@@ -1,4 +1,5 @@
 from notas import agregar_nota, mostrar_notas, eliminar_nota
+# Archivo principal de ejecución.
 
 notas = []
 
