@@ -27,3 +27,5 @@ while True:
 
     else:
         print("Opción incorrecta")
+
+        print("Fin del programa.") 
