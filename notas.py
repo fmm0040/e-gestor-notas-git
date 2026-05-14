@@ -1,4 +1,5 @@
-def agregar_nota(lista, texto):
+def agregar_nota(lista, texto): #Módulo para la gestión interna de notas.
+
     lista.append(texto)
     print("Nota añadida correctamente")
 
